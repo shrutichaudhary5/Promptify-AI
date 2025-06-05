@@ -2,8 +2,7 @@
 
 # Promptify AI
 
-An AI-powered prompt management and optimization platform for teams using LLMs like GPT-4, Claude, and Gemini.
-# Promptify AI
+An AI-powered prompt management and optimization platform for teams using LLMs like GPT-4, Claude, and Gemini
 
 Promptify AI is an AI-powered prompt management and optimization platform designed to simplify and organize prompt engineering for individuals and teams.
 
