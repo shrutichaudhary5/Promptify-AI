@@ -30,7 +30,11 @@ This project aims to solve the challenges of prompt management in AI workflows b
 
 ## 📁 Project Documentation
 
-👉 [Click here to view full project PDF](Project:%20Promptify.ai%20–%20An%20AI-Powered%20Prompt%20Management%20&%20Optimization%20Platform%20for%20Teams.pdf)
+## 📄 Full Documentation
+
+You can view the complete project documentation here:
+
+👉 [Promptify AI – Google Doc](https://drive.google.com/file/d/1-6THvAwZs-c-Y78AdsOQAMlkVclJeJEG/view?usp=drivesdk)
 
 ## 🖼️ Figma Prototype
 
