@@ -36,7 +36,7 @@ This project aims to solve the challenges of prompt management in AI workflows b
 
 **Shruti Chaudhary**
 🧑‍💻 MCA Graduate | Aspiring Product Manager
-📍 Muzaffarnagar, India
+📍 Noida, India
 [LinkedIn Profile](https://www.linkedin.com/in/shrutichaudhary55555)
 
 ---
